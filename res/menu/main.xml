@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.supermicro.replydog.MainActivity" >
+
+    <item
+        android:id="@+id/show_memory"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/show_all"/>
+     <item
+        android:id="@+id/clear_brain"
+        android:orderInCategory="99"
+        android:showAsAction="never"
+        android:title="@string/delete_all"/>
+
+</menu>

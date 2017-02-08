@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReplyDog</string>
+    <string name="delete_all">Clear Dog brain</string>
+    <string name="show_all">Show Dog brain</string>
+
+</resources>
